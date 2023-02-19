@@ -2,7 +2,9 @@
    <h1> Student Placement Prediction</h1>
 </div>
 
-**Black Friday** marks the beginning of the Christmas shopping festival across the US. On Black Friday big shopping giants like Amazon, Flipkart, etc. lure customers by offering discounts and deals on different product categories. The product categories range from electronic items, Clothing, kitchen appliances, Décor. Research has been carried out to predict sales by various researchers. The analysis of this data serves as a basis to provide discounts on various product items. With the purpose of analyzing and predicting the sales, we have used three models. The dataset Black Friday Sales Dataset available on Kaggle has been used for analysis and prediction purposes.
+Predicting the number of potential candidates is one of biggest challenges for the placement officer, since sometime a student with very good academic score doesn’t get place and the one with the low academic score but good communication skills get place. 
+Clearly, there are more than one factor influencing the placements. Finding the relation between factors can be even challenging for a trained statistician. Even companies visiting the college uses the criteria of aggregate to sort out students and sometime due to error of method they end up empty handed with no potential student. 
+We are proposing a machine learning evaluation system which will consider many different factors like communication skills, technical skills, aggregate to determine the potential of the student. We are using Decision Tree Algorithm which gives excellent performance in classification problem with less data constraint.
 
 # Getting Started :
 
