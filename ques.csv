@@ -1,0 +1,30 @@
+,q,A,B,C,D,Answer
+0,Express a speed of 36 kmph in meters per second?,10 mps,12 mps,14 mps,17 mps,A
+1,Express 25 mps in kmph?,15 kmph,99 kmph,90 kmph,"None,",C
+2,The speed of a train is 90 kmph. What is the distance covered by it in 10 minutes? ,15 kmph,12 kmph,10 kmph ,5 kmph,A
+3,A car covers a distance of 624 km in 6 ½ hours. Find its speed? ,104 kmph,140 kmph,104 mph ,10.4 kmph,A
+4,A and B complete a work in 6 days. A alone can do it in 10 days. If both together can do the work in how many days? ,3.75 days,4 days,5 days ,6 days,A
+5,A can do a piece of work in 4 days. B can do it in 5 days. With the assistance of C they completed the work in 2 days. Find in how many days can C alone do it? ,10 days,20 days,5 days ,4 days,B
+6,"A, B and C can do a piece of work in 24, 30 and 40 days respectively. They start the work together but C leaves 4 days before the completion of the work. In how many days is the work done? ",15 days,14 days,13 days,11 days,D
+7,"5 men and 12 boys finish a piece of work in 4 days, 7 men and 6 boys do it in 5 days. The ratio between the efficiencies of a man and boy is? ",1:,2:1,2:3 ,6:5,D
+8,A and B can finish a work in 16 days while A alone can do the same work in 24 days. In how many days B alone will complete the work? ,56,48,36 ,58,B
+9,Some persons can do a piece of work in 12 days. Two times the number of these people will do half of that work in? ,3 days,4 days,6 days ,12 days,A
+10,What number has a 5:1 ratio to the number 10? ,42,50,55 ,62,B
+11,Two same glasses are respectively 1/4th 1/5th full of milk. They are then filled with water and the contents mixed in a tumbler. The ratio of milk and water in the tumbler is? ,3:8,9:31,8:21 ,10:2 ,B
+12,A and B entered into a partnership investing Rs.25000 and Rs.30000 respectively. After 4 months C also joined the business with an investment of Rs.35000. What is the share of C in an annual profit of Rs.47000? ,Rs.18000,Rs.15000,Rs.17000 ,Rs.14000 ,D
+13,In how many years does a sum of Rs. 5000 yield a simple interest of Rs. 16500 at 15% p.,22,24,25,23,A
+14,The radius of a circle is increased by 1%. Find how much % does its area increases?,1.01%,5.01%,3.01% ,2.01%,D
+15,Could you please tell me where _____________?,the office is located.,Is located the office.,Is the office located.,the office locate.,A
+16,Several _____________ sent an e-mail to the instructor.,student,of students,of the student,of the students,D
+17,The traffic was heavy. I was late to work.,I was late to work because the traffic was heavy.,"I was late to work, so the traffic was heavy.","The traffic was heavy, I was late to work.",The traffic was heavy: and then I was late to work.,A
+18,The workers left early and ________________ home.,gone,went,have dinner,drives,B
+19,Which key word can protect a class in package from accessibility by the classes outside the package?,private,protected,final,don't use any keyword at all(make it default),D
+20,We would like to make a member of a class visible in all subclasses regardless of what package they are in. Which one of the following keywords would achieve this?,private,protected,public,private protected,D
+21,The use of protected keyword to a member in a class will restrict its visibility as follows:,Visibility only in the class and its subclasses in the same package.,Visibility only inside the same package.,Visibility in all classes in the same package and subclasses in other packages.,Visibility only in the class where it is declared .,C
+22,Which of the following are not keywords?,NULL,Implements,Protected,None of the above,A
+23,Which of the following are keywords?,integer,default,Boolean,Object,B
+24,Which of the following keywords are used to control access to a class member?,default,protected,interface,None of the above,B
+25,The keywords reserved but not used in the initial version of Java re:,Synchronized,Boolean,union,goto,D
+26,A package is a collection of,classes,interface,editing tools,classes and interfaces,D
+27,Which of the following statements are true?,An abstract class may not have any final methods?,A final class may not have any abstracts methods.,Transient variables must be static.,all of the above,B
+28,Which of the following statements are valid array declarations?,int number();,float average[];,double[] marks;,counter int[];,B
